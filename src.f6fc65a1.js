@@ -13,4 +13,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/listeners"),require("./js/to-top-btn");
 },{"./sass/main.scss":"clu1","./js/listeners":"ZbE9","./js/to-top-btn":"y0XA"}]},{},["Focm"], null)
-//# sourceMappingURL=/team-project-group-11/src.d9a5cf4b.js.map
+//# sourceMappingURL=/icecream-landing-page/src.f6fc65a1.js.map
